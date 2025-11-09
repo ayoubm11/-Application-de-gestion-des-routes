@@ -1,0 +1,6 @@
+[submodule "RoutePro_Backend"]
+	path = RoutePro_Backend
+	url = https://github.com/ayoubm11/RoutePro_Backend.git
+[submodule "RoutePro-Frontend"]
+	path = RoutePro-Frontend
+	url = https://github.com/ayoubm11/RoutePro-Frontend.git
